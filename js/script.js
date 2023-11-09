@@ -6,4 +6,4 @@ let generatedPasswordTarget = document.getElementById("generated-password");
 
 let generatedPassword = userName + userSurname + preferiteColor + randomNumber;
 
-generatedPasswordTarget.innerHTML = `La password generata è: ${generatedPassword}`
+generatedPasswordTarget.innerHTML = `La password generata è: ${generatedPassword}`;
